@@ -1,4 +1,4 @@
 # Realistic_Image_Classification
 
-[Documentation](Berbece_David-Constantin_251_doc.pdf.pdf)
+[Documentation](Berbece_David-Constantin_251_doc.pdf)
 
